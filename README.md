@@ -2,16 +2,18 @@
 This project contains two implementations of the task management app
 A simple command-line task management application written in C and graphical user interface (GUI) built using Python and Tkinter that allows users to:
 
-➕ Add tasks with title, description, and priority (High, Medium, Low)
 
-📄 Display all or only pending tasks
+# Features
+- Add tasks with title, description, and priority (High, Medium, Low)
 
-✅ Mark tasks as completed
+- Display all or only pending tasks
 
-🗑️ Delete tasks by title
+- Mark tasks as completed
 
-🔀 Sort tasks by priority
+- Delete tasks by title
 
-💾 Save and load tasks from a local file (tasks.txt)
+- Sort tasks by priority
 
-📤 Export tasks to a CSV file (tasks.csv) for easy sharing
+- Save and load tasks from a local file (tasks.txt)
+
+- Export tasks to a CSV file (tasks.csv) for easy sharing
